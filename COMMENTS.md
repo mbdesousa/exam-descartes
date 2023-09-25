@@ -8,6 +8,6 @@ I encountered difficulties with the expo-router library, particularly in making 
 
 One of the enjoyable aspects of this project was working with geolocation, a new experience for me. I had never worked with these geo APIs before.
 
-I had plans to implement a settings screen for selecting themes and region (such as temperature units in Celsius, Kelvin, Fahrenheit, etc.).
+I had plans to implement a settings screen for selecting themes and region (such as temperature units in Celsius, Kelvin, Fahrenheit, etc.). I also intended to save coordinates in AsyncStorage, enabling a quicker app launch experience.
 
 However, it's worth noting that the chosen API doesn't provide information for past or future days. Consequently, I refrained from making multiple fetch requests to gather data for various days, as it wouldn't have been a comfortable solution.
